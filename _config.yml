@@ -49,6 +49,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Sitemap"
+      url: "/sitemap/"   
 
 
 # Reading Files
