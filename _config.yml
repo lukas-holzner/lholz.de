@@ -200,6 +200,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comment: true
       share: true
       related: true
   # _pages
