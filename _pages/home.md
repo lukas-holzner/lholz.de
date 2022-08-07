@@ -2,6 +2,9 @@
 title: Home
 layout: home
 permalink: /
+sidebar:
+  cat: "docs"
+
 ---
 
 ## Welcome to Lukas Blog

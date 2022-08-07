@@ -1,4 +1,8 @@
 main:
+ - title: "Posts"
+   url: /year-archive/
+
+cat:
  - title: "DevOps"
    children:
     - title: "Docker"
@@ -12,5 +16,3 @@ main:
       url: /3dprinting/
     - title: "Woodworking"
       url: /woodworking/
- - title: "Posts"
-   url: /year-archive/
