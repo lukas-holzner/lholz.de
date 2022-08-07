@@ -1,5 +1,16 @@
 main:
+ - title: "DevOps"
+   subfolderitems:
+    - page: "Docker"
+      url: /docker/
+    - page: "Ansible"
+      url: /ansible/
+ - title: "Maker Stuff"
+   url: "/maker/"
+   subfolderitems:
+    - page: "3D Printing"
+      url: /3dprinting/
+    - page: "Woodworking"
+      url: /woodworking/
  - title: "Posts"
    url: /year-archive/
- - title: "Sitemap"
-   url: /sitemap/

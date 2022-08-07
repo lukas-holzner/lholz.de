@@ -182,13 +182,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-  pets:
+  prints:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -200,7 +196,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comment: true
+      comments: true
       share: true
       related: true
   # _pages
@@ -218,19 +214,11 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _pets
+  # _prints
   - scope:
       path: ""
-      type: pets
+      type: prints
     values:
       layout: single
       author_profile: true
-      share: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
       share: true
