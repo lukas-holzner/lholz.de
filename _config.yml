@@ -1,1 +1,30 @@
-theme: jekyll-theme-hacker
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "mint" 
+
+# Site Settings
+
+title                    : "Site Title"
+title_separator          : "-"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : "http://lholz.de"
+baseurl                  : "/"
+repository               : "MeisterGig/lholz.de"
+
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
