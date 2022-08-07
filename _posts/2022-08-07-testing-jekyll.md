@@ -26,7 +26,7 @@ I am hosting this website on Github Pages. This is awsome. But of course i wante
 One of Minial Mistakes [Blog Posts](https://mmistakes.github.io/minimal-mistakes/layout/uncategorized/layout-header-video/) talks about adding videos anywhere in the text, by using this Liquid templateing code:
 
 ```liquid
-{% include video id="BBnomwpF_uY" provider="youtube" %}
+{% raw %}{% include video id="BBnomwpF_uY" provider="youtube" %}{% endraw %}
 ```
 
 In this case, i can embedd a video, from one of my favourite Youtubers Jeff Geerling, without complicated html code, which might breake the look and feel of this post.
