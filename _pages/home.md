@@ -2,6 +2,7 @@
 title: Home
 layout: home
 permalink: /
+author_profile: false
 sidebar:
   nav: "cat"
 
