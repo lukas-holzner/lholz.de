@@ -3,7 +3,7 @@ title: Home
 layout: home
 permalink: /
 sidebar:
-  cat: "docs"
+  nav: "cat"
 
 ---
 
