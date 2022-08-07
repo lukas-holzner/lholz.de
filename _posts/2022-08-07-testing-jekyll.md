@@ -7,15 +7,14 @@ tags:
   - blog
 ---
 
+![Jekyll](https://jekyllrb.com/img/logo-2x.png)
+
 I was searching for a way to have a small blog website to post projects to and where i can commit the posts to GitHub.
 
 ## What i found
 
 After googeling, I found several repositories, with markedown files and example sites, which i later found out were all diffrent Themes for Jekyll. Next I found the GitHub documentation for Github pages, which also talked about Jekyll. That made me wanna try it. So i created a repository and started trying.
 
-{% include image.html url="http://jekyllrb.com"
-max-width="200px" file="logo.png" alt="Jekyll logo"
-caption="This is the Jekyll logo." %}
 
 ## Getting started
 
