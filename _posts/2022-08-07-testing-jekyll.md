@@ -33,7 +33,7 @@ In this case, i can embedd a video, from one of my favourite Youtubers Jeff Geer
 
 {% include video id="BBnomwpF_uY" provider="youtube" %}
 
-Inclouduing Pictures, can be done, by uploading them into an assets folder, but I'm not really satisfied with that solution yet. I'll see if I can find something better.
+Including Pictures, can be done, by uploading them into an assets folder, but I'm not really satisfied with that solution yet. I'll see if I can find something better.
 
 ## Conclusion
 
