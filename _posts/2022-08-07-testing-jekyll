@@ -1,5 +1,10 @@
 ---
 title: "Testing Jekyll"
+categories:
+  - Blog
+tags:
+  - git
+  - blog
 ---
 
 I was searching for a way to have a small blog website to post projects to and where i can commit the posts to GitHub.
