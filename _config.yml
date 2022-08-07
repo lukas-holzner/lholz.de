@@ -25,9 +25,9 @@ analytics:
 # Site Author
 author:
   name             : "Lukas Holzner"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am Lukas Holzner, working at as a Linux DevOps Engineer at Interhyp AG and studying Cyber Security part time at the IU (International University of Applied Sciences)"
-  location         : "Somewhere"
+  #avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Maker, Linux DevOps Engineer"
+  location         : "Munich, Germnay"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
