@@ -13,6 +13,10 @@ I was searching for a way to have a small blog website to post projects to and w
 
 After googeling, I found several repositories, with markedown files and example sites, which i later found out were all diffrent Themes for Jekyll. Next I found the GitHub documentation for Github pages, which also talked about Jekyll. That made me wanna try it. So i created a repository and started trying.
 
+{% include image.html url="http://jekyllrb.com"
+max-width="200px" file="logo.png" alt="Jekyll logo"
+caption="This is the Jekyll logo." %}
+
 ## Getting started
 
 First i tried, a default theme called hacker. It was okay but not what i was searching for. next I found this custom theme called [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) they had a very nice demo site, where they also posted their own posts, so i could really see it in action.
