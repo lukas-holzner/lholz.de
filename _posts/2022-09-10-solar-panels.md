@@ -13,7 +13,7 @@ I times of rising energy prices, the need to reduce the reliance on grid power h
 
 # Product
 
-We have ordered our panels from (yuma)[https://yuma.de] a german supplyer of small solarsystems. The kit we got, came with two 340W panels from Eurener, a 600W inverter form Hoymiles (HM-600) and a mounting kit for our tile roof. I addition we got a 10m AC cable for plugging the solar system in.
+We have ordered our panels from [yuma](https://yuma.de) a german supplyer of small solarsystems. The kit we got, came with two 340W panels from Eurener, a 600W inverter form Hoymiles (HM-600) and a mounting kit for our tile roof. I addition we got a 10m AC cable for plugging the solar system in.
 
 
 # Installation
